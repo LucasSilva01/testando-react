@@ -1,0 +1,7 @@
+header#main{
+    background-color:black;
+    color:#f0f8ff;
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+}

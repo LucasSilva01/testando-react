@@ -1,8 +1,8 @@
 import React from 'react';
-
+import './header.css';
 const Header = () => (
-    <header id ="main">
-        Usuários
+    <header  id ="main">
+        Menu
     </header>
 )
 
